@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+myvenv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Training Outputs
+outputs/
+
+# Model Weights
+weights/
+
+# Large Dataset (optional)
+dataset/
+
+# OS files
+Thumbs.db
+.DS_Store
